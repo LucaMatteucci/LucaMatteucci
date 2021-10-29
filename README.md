@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucaMatteucci
 - 👀 I’m interested in data journalism
-- 🌱 I’m currently learning journalism and climate policy
+- 🌱 I’m currently studying journalism and climate policy, and brushing up my data visualisation skills
 - 💞️ I’m looking to collaborate on data-informed climate reporting
 - 📫 How to reach me: @matteucci_L on twitter 
 
